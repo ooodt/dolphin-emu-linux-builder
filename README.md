@@ -13,4 +13,4 @@ it should automatically build dolphin to the lastest verion and once thats finsh
 
 [note] Te files used to build dolphin wil be in your home directory and can be deleted when finshed building
 
-to run dolphin type 
+To run dolphin type Dolphin-emu in Terminal or you can find the executable in the dolphin folder (if you didn't delete it)
